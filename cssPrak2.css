@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-family: 'poppins', sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px 13px;
+    color: white;
+    width: 100%;
+  }
+
+  table{
+border-collapse: collapse;
+font-size: 10pt;
+border: 1px solid #cccccc
+  }
+  
+  td.a{
+    background-color: steelblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-large;
+    color : whitesmoke
+  }
+
+td{
+    padding: 3px;
+    height: 25px;
+}
+
+th{
+    background-color: steelblue;
+    color: white ;
+    height: 30px;
+}
+
+tr.x{
+background-color: #dddddd;
+}
+
+td.font{
+    color : #dddddd
+}
+
+td.class{
+    background-color: lightblue;
+}
+
+td:hover{
+    background-color:#dddddd ;
+}
